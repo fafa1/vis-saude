@@ -246,7 +246,7 @@ class App extends Component {
           <nav className="nav">
             <ul className="nav-list">
               <li className="nav-list__item">
-                <a href="http://127.0.0.1:8080">StarPlot</a>
+                <a href="https://fafa1.github.io/">StarPlot</a>
               </li>
               <li className="nav-list__item">
                 <a href="https://github.com/fafa1"></a>
@@ -255,7 +255,7 @@ class App extends Component {
           </nav>
         </header>
         <fieldset className="vis-select label">
-          <legend>Selecione um tipo de Visualização</legend>
+          <legend>Visualização Radar</legend>
         {/*   {this.state.visTypes.map(visType => {
             return (
               <label key={visType.value}>
@@ -301,7 +301,7 @@ class App extends Component {
               {
                 sizeBasedOnWindow < breakpoint ?
                   <div className="vis-container__patient-controls">
-                    <p className="label">Patients</p>
+                    <p className="label">Pacientes</p>
                     <VisControlGroup
                       type="checkbox"
                       visType={ this.state.visType.value }
