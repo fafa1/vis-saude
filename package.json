@@ -1,0 +1,26 @@
+{
+  "name": "react-vis-components",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://fafa1.github.io/vis-saude",
+  "dependencies": {
+    "d3": "^4.12.2",
+    "d3-scale-chromatic": "^1.1.1",
+    "gh-pages": "^1.1.0",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-move": "^2.6.0",
+    "react-scripts": "1.1.0",
+    "react-svg-text": "^0.1.2"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

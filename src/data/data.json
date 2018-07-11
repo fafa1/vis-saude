@@ -1,0 +1,3078 @@
+[
+  {
+    "years": [
+      {
+        "months": [
+          {
+            "values": [
+              {
+                "value": "0.69",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.59",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.25",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.15",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.67",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.99",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.81",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "January",
+            "month": 1,
+            "index": 0
+          },
+          {
+            "values": [
+              {
+                "value": "0.15",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.23",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.7",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.81",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.39",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.84",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": 1,
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "February",
+            "month": 2,
+            "index": 1
+          },
+          {
+            "values": [
+              {
+                "value": "0.38",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.34",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.46",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.89",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.61",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.3",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.6",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "March",
+            "month": 3,
+            "index": 2
+          },
+          {
+            "values": [
+              {
+                "value": "0.33",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.83",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.89",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.22",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.88",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.55",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.25",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "April",
+            "month": 4,
+            "index": 3
+          },
+          {
+            "values": [
+              {
+                "value": "0.62",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.3",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.86",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.55",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.32",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.18",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.28",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "May",
+            "month": 5,
+            "index": 4
+          },
+          {
+            "values": [
+              {
+                "value": "0.33",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.34",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.89",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.93",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.89",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.74",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.73",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "June",
+            "month": 6,
+            "index": 5
+          },
+          {
+            "values": [
+              {
+                "value": "0.83",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.74",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.31",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.24",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.6",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.58",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.46",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "July",
+            "month": 7,
+            "index": 6
+          },
+          {
+            "values": [
+              {
+                "value": "0.93",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.29",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.69",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.36",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.24",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.48",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.39",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "August",
+            "month": 8,
+            "index": 7
+          },
+          {
+            "values": [
+              {
+                "value": "0.8",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.46",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.92",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.94",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.63",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.89",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.96",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "September",
+            "month": 9,
+            "index": 8
+          },
+          {
+            "values": [
+              {
+                "value": "0.77",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.37",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.6",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.33",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.57",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.41",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.33",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "October",
+            "month": 10,
+            "index": 9
+          },
+          {
+            "values": [
+              {
+                "value": "0.32",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.95",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.86",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.26",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.58",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.6",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.71",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "November",
+            "month": 11,
+            "index": 10
+          },
+          {
+            "values": [
+              {
+                "value": "0.52",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.59",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.21",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.19",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.43",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.88",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.69",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "December",
+            "month": 12,
+            "index": 11
+          }
+        ],
+        "year": 2018,
+        "index": 0
+      },
+      {
+        "months": [
+          {
+            "values": [
+              {
+                "value": "0.72",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.21",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.41",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.77",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.58",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.25",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.56",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "January",
+            "month": 1,
+            "index": 0
+          },
+          {
+            "values": [
+              {
+                "value": "0.62",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.84",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.8",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.42",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.46",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.35",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.34",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "February",
+            "month": 2,
+            "index": 1
+          },
+          {
+            "values": [
+              {
+                "value": "0.39",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.75",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.78",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.93",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.96",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.79",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.39",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "March",
+            "month": 3,
+            "index": 2
+          },
+          {
+            "values": [
+              {
+                "value": "0.65",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.88",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.58",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.49",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.74",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.66",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.35",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "April",
+            "month": 4,
+            "index": 3
+          },
+          {
+            "values": [
+              {
+                "value": "0.69",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.2",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.54",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.55",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.8",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.55",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.16",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "May",
+            "month": 5,
+            "index": 4
+          },
+          {
+            "values": [
+              {
+                "value": "0.16",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.98",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.48",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.93",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.22",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.74",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.49",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "June",
+            "month": 6,
+            "index": 5
+          },
+          {
+            "values": [
+              {
+                "value": "0.71",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.62",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.25",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.79",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.53",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.97",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.16",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "July",
+            "month": 7,
+            "index": 6
+          },
+          {
+            "values": [
+              {
+                "value": "0.59",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.21",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.99",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.35",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.49",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.59",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.92",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "August",
+            "month": 8,
+            "index": 7
+          },
+          {
+            "values": [
+              {
+                "value": "0.49",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.87",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.5",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.93",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.19",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.65",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.27",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "September",
+            "month": 9,
+            "index": 8
+          },
+          {
+            "values": [
+              {
+                "value": "0.56",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.5",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.59",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.82",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.55",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.31",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.78",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "October",
+            "month": 10,
+            "index": 9
+          },
+          {
+            "values": [
+              {
+                "value": "0.24",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.94",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.96",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.78",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.86",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.55",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": 1,
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "November",
+            "month": 11,
+            "index": 10
+          },
+          {
+            "values": [
+              {
+                "value": "0.16",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.89",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.91",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.21",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.71",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.53",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.98",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "December",
+            "month": 12,
+            "index": 11
+          }
+        ],
+        "year": 2017,
+        "index": 1
+      },
+      {
+        "months": [
+          {
+            "values": [
+              {
+                "value": "0.54",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.98",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.33",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.56",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.84",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.26",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.27",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "January",
+            "month": 1,
+            "index": 0
+          },
+          {
+            "values": [
+              {
+                "value": "0.66",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.84",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.78",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.56",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.41",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.7",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.2",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "February",
+            "month": 2,
+            "index": 1
+          },
+          {
+            "values": [
+              {
+                "value": "0.98",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.29",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.84",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.58",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.96",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.21",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.87",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "March",
+            "month": 3,
+            "index": 2
+          },
+          {
+            "values": [
+              {
+                "value": "0.76",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.5",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.56",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.88",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.9",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.93",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.2",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "April",
+            "month": 4,
+            "index": 3
+          },
+          {
+            "values": [
+              {
+                "value": "0.49",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.47",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.51",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.8",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.88",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.9",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.73",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "May",
+            "month": 5,
+            "index": 4
+          },
+          {
+            "values": [
+              {
+                "value": "0.46",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.53",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.87",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.2",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.96",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.25",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.27",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "June",
+            "month": 6,
+            "index": 5
+          },
+          {
+            "values": [
+              {
+                "value": "0.79",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.87",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.58",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.73",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.63",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.93",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.95",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "July",
+            "month": 7,
+            "index": 6
+          },
+          {
+            "values": [
+              {
+                "value": "0.94",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.72",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.36",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.83",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.87",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.76",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.82",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "August",
+            "month": 8,
+            "index": 7
+          },
+          {
+            "values": [
+              {
+                "value": "0.3",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.81",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.4",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.61",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.96",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.84",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.54",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "September",
+            "month": 9,
+            "index": 8
+          },
+          {
+            "values": [
+              {
+                "value": "0.3",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.66",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.59",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.59",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.94",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.77",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.21",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "October",
+            "month": 10,
+            "index": 9
+          },
+          {
+            "values": [
+              {
+                "value": "0.57",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.62",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.26",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.16",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.22",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.62",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.78",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "November",
+            "month": 11,
+            "index": 10
+          },
+          {
+            "values": [
+              {
+                "value": "0.69",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.63",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.92",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.87",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.38",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.2",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.72",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "December",
+            "month": 12,
+            "index": 11
+          }
+        ],
+        "year": 2016,
+        "index": 2
+      }
+    ],
+    "patient": "Veronica H.",
+    "index": 0,
+    "_id": "5a62745c1bec2fc3a88a5a3f"
+  },
+  {
+    "years": [
+      {
+        "months": [
+          {
+            "values": [
+              {
+                "value": "0.76",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.59",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.94",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.58",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.6",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.47",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.24",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "January",
+            "month": 1,
+            "index": 0
+          },
+          {
+            "values": [
+              {
+                "value": "0.9",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.32",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.17",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.5",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.25",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.42",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.23",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "February",
+            "month": 2,
+            "index": 1
+          },
+          {
+            "values": [
+              {
+                "value": "0.75",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.35",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.64",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.55",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.16",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": 1,
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.9",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "March",
+            "month": 3,
+            "index": 2
+          },
+          {
+            "values": [
+              {
+                "value": "0.36",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.32",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.6",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.54",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.61",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.67",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.43",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "April",
+            "month": 4,
+            "index": 3
+          },
+          {
+            "values": [
+              {
+                "value": "0.42",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.96",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.53",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.88",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.53",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.82",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.49",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "May",
+            "month": 5,
+            "index": 4
+          },
+          {
+            "values": [
+              {
+                "value": 1,
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.85",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.69",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.18",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.94",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.25",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.58",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "June",
+            "month": 6,
+            "index": 5
+          },
+          {
+            "values": [
+              {
+                "value": "0.95",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.74",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.3",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.44",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.31",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.59",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.41",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "July",
+            "month": 7,
+            "index": 6
+          },
+          {
+            "values": [
+              {
+                "value": "0.18",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.85",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": 1,
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.99",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.45",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.34",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.47",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "August",
+            "month": 8,
+            "index": 7
+          },
+          {
+            "values": [
+              {
+                "value": "0.31",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.41",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.61",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.58",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.99",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.45",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.34",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "September",
+            "month": 9,
+            "index": 8
+          },
+          {
+            "values": [
+              {
+                "value": "0.19",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.91",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.85",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.88",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.94",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.76",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.82",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "October",
+            "month": 10,
+            "index": 9
+          },
+          {
+            "values": [
+              {
+                "value": "0.24",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.63",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.86",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.51",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.34",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.65",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.46",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "November",
+            "month": 11,
+            "index": 10
+          },
+          {
+            "values": [
+              {
+                "value": "0.27",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.83",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.88",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.52",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.96",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.68",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.52",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "December",
+            "month": 12,
+            "index": 11
+          }
+        ],
+        "year": 2018,
+        "index": 0
+      },
+      {
+        "months": [
+          {
+            "values": [
+              {
+                "value": "0.32",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.4",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.77",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.38",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.66",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.39",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.56",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "January",
+            "month": 1,
+            "index": 0
+          },
+          {
+            "values": [
+              {
+                "value": "0.73",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.42",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.99",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.64",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.34",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.79",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.54",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "February",
+            "month": 2,
+            "index": 1
+          },
+          {
+            "values": [
+              {
+                "value": "0.56",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.24",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.19",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.97",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.29",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.85",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.17",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "March",
+            "month": 3,
+            "index": 2
+          },
+          {
+            "values": [
+              {
+                "value": "0.73",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.55",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.93",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.16",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.28",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.94",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.31",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "April",
+            "month": 4,
+            "index": 3
+          },
+          {
+            "values": [
+              {
+                "value": "0.68",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.95",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.46",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.5",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.3",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.79",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.74",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "May",
+            "month": 5,
+            "index": 4
+          },
+          {
+            "values": [
+              {
+                "value": "0.37",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.57",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.7",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.34",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.21",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.54",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.38",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "June",
+            "month": 6,
+            "index": 5
+          },
+          {
+            "values": [
+              {
+                "value": "0.2",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.23",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.72",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.92",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.87",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.68",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.73",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "July",
+            "month": 7,
+            "index": 6
+          },
+          {
+            "values": [
+              {
+                "value": "0.84",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.95",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.87",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.75",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.18",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.27",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": 1,
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "August",
+            "month": 8,
+            "index": 7
+          },
+          {
+            "values": [
+              {
+                "value": "0.94",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.3",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.39",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.36",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.27",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.63",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.57",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "September",
+            "month": 9,
+            "index": 8
+          },
+          {
+            "values": [
+              {
+                "value": "0.93",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.38",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.76",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.75",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.56",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.26",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.79",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "October",
+            "month": 10,
+            "index": 9
+          },
+          {
+            "values": [
+              {
+                "value": "0.52",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.92",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.49",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.86",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.17",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.51",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.66",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "November",
+            "month": 11,
+            "index": 10
+          },
+          {
+            "values": [
+              {
+                "value": "0.36",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.37",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.95",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.46",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.76",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.41",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.33",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "December",
+            "month": 12,
+            "index": 11
+          }
+        ],
+        "year": 2017,
+        "index": 1
+      },
+      {
+        "months": [
+          {
+            "values": [
+              {
+                "value": "0.15",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.36",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.33",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.17",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.64",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.19",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.68",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "January",
+            "month": 1,
+            "index": 0
+          },
+          {
+            "values": [
+              {
+                "value": "0.91",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.71",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.39",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.65",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.93",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.8",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.96",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "February",
+            "month": 2,
+            "index": 1
+          },
+          {
+            "values": [
+              {
+                "value": "0.56",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.39",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.5",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.83",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.59",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.77",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.22",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "March",
+            "month": 3,
+            "index": 2
+          },
+          {
+            "values": [
+              {
+                "value": "0.33",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.17",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.52",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.44",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.25",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.97",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.88",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "April",
+            "month": 4,
+            "index": 3
+          },
+          {
+            "values": [
+              {
+                "value": "0.87",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.66",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.85",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.52",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.86",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.21",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.29",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "May",
+            "month": 5,
+            "index": 4
+          },
+          {
+            "values": [
+              {
+                "value": "0.86",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.63",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.87",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.71",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.84",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.58",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.81",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "June",
+            "month": 6,
+            "index": 5
+          },
+          {
+            "values": [
+              {
+                "value": "0.49",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.41",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.31",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.96",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.41",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.73",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.19",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "July",
+            "month": 7,
+            "index": 6
+          },
+          {
+            "values": [
+              {
+                "value": "0.92",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.36",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.15",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.66",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.99",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.94",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.75",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "August",
+            "month": 8,
+            "index": 7
+          },
+          {
+            "values": [
+              {
+                "value": "0.49",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": 1,
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.58",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.49",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.39",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.48",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.75",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "September",
+            "month": 9,
+            "index": 8
+          },
+          {
+            "values": [
+              {
+                "value": "0.32",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.56",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.88",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.6",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.89",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.58",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.47",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "October",
+            "month": 10,
+            "index": 9
+          },
+          {
+            "values": [
+              {
+                "value": "0.31",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.37",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.27",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.42",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.27",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.28",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.79",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "November",
+            "month": 11,
+            "index": 10
+          },
+          {
+            "values": [
+              {
+                "value": "0.61",
+                "measure": "Behavior",
+                "index": 0
+              },
+              {
+                "value": "0.73",
+                "measure": "Social Circumstances",
+                "index": 1
+              },
+              {
+                "value": "0.7",
+                "measure": "Genetics & Biology",
+                "index": 2
+              },
+              {
+                "value": "0.7",
+                "measure": "Medical Care",
+                "index": 3
+              },
+              {
+                "value": "0.77",
+                "measure": "Health Literacy",
+                "index": 4
+              },
+              {
+                "value": "0.31",
+                "measure": "Access",
+                "index": 5
+              },
+              {
+                "value": "0.36",
+                "measure": "Environment",
+                "index": 6
+              }
+            ],
+            "monthName": "December",
+            "month": 12,
+            "index": 11
+          }
+        ],
+        "year": 2016,
+        "index": 2
+      }
+    ],
+    "patient": "Diego C.",
+    "index": 1,
+    "_id": "5a62745ca3b6cbf643c9986e"
+  }
+]  
+  
+
