@@ -38,6 +38,22 @@ class App extends Component {
     this.state = {
       windowWidth: 0,
       targetDate: new Date('2018-01-01T12:00:01Z'),
+      targetDate07: new Date('2017-01-01T12:00:01Z'),
+      targetDate06: new Date('2016-01-01T12:00:01Z'),
+      activeYear: 2018,
+      activeMonth: 1,
+      patientData: [],
+      dateData: [],
+      radarData: [],
+      visTypes: visTypes,
+      visType: visTypes[1]
+    }
+
+    this.state06 = {
+      windowWidth: 0,
+      targetDate: new Date('2018-01-01T12:00:01Z'),
+      targetDate07: new Date('2017-01-01T12:00:01Z'),
+      targetDate06: new Date('2016-01-01T12:00:0'),
       activeYear: 2018,
       activeMonth: 1,
       patientData: [],
@@ -75,6 +91,8 @@ class App extends Component {
     this.setState({ patientData }, () => { //setando os dados de patienteData
       // Date data
       const { targetDate } = this.state;
+      const { targetDate07 } = this.state;
+      const { targetDate06 } = this.state;
       const nextQuarter = new Date(targetDate); // por enquanto n usando
       const lastQuarter = new Date(targetDate);
       const lastQuarterJul = new Date(targetDate);
@@ -82,13 +100,22 @@ class App extends Component {
       const lastQuarterJan = new Date(targetDate);
       const lastYear = new Date(targetDate);
       const twoYearsAgo = new Date(targetDate);
+
+      const semesLastYear = new Date(targetDate07)
+      const semesTwostYear = new Date(targetDate06)
+
       nextQuarter.setMonth(targetDate.getMonth() + 3);
       lastQuarter.setMonth(targetDate.getMonth() - 3);
       lastQuarterJul.setMonth(targetDate.getMonth() - 6);
       lastQuarterAbr.setMonth(targetDate.getMonth() - 9);
       lastQuarterJan.setMonth(targetDate.getMonth() - 12);
+
       lastYear.setYear(targetDate.getFullYear() - 1);
       twoYearsAgo.setYear(targetDate.getFullYear() - 2);
+      
+      semesLastYear.setMonth(targetDate07.getMonth() - 6)
+      semesTwostYear.setMonth(twoYearsAgo.getMonth() - 6)
+
       const dates = [
         {
           date: twoYearsAgo,
@@ -104,20 +131,28 @@ class App extends Component {
         },
         {
           date: lastQuarterJan,
-          label: 'Primeiro Trimestre'
+          label: 'Primeiro Trimestre - 2018'
         },
         {
           date: lastQuarterAbr,
-          label: 'Segundo Trimestre'
+          label: 'Segundo Trimestre - 2018'
         },
         {
           date: lastQuarterJul,
-          label: 'Terceiro Trimestre'
+          label: 'Terceiro Trimestre - 2018'
         },
         {
           date: lastQuarter,
-          label: 'Ultimo Trimestre'
+          label: 'Ultimo Trimestre - 2018'
         },
+        {
+          date: semesLastYear,
+          label: '1 Semestre 2017'
+        },
+        /* {
+          date: semesTwostYear,
+          label: '1 Semestre 2016'
+        }, */
         /*{
           date: nextQuarter,
           label: 'Next Quarter'
@@ -256,23 +291,13 @@ class App extends Component {
         </header>
         <fieldset className="vis-select label">
           <legend>Visualização Radar</legend>
-        {/*   {this.state.visTypes.map(visType => {
-            return (
-              <label key={visType.value}>
-                <input
-                  type="radio"
-                  name="vis-select"
-                  value={ visType.value }
-                  checked={ visType.value === visTypeValue }
-                  onChange={ this.handleVisSelectChange(visType) } />
-                { visType.label }
-              </label>
-            )
-          })} */}
+           {this.state.visTypes.map(visType => {
+          })}
         </fieldset>
         <div className="vis-container">
           <div className="vis-container__main">
             {
+              this.state.visType.value === CONSTANTS.hgraph ?
                 <HGraph
                   data={ this.state.radarData } //acredito que seja os dados
                   width={ size }
@@ -284,7 +309,16 @@ class App extends Component {
                   pointRadius={ 10 }
                   scoreEnabled={ true } />
                // senão retorna um spiderchart
-                
+              :
+              <SpiderChart
+              data={ this.state.radarData }
+              width={ size }
+              height={ size }
+              type={ this.state.visType.value }
+              axes={ true }
+              labelOffset={ size < 300 ? 1.2 : 1.1 }
+              levelLabel={ true }
+              pointRadius={ 4 } />
             }
             <div className="vis-container__controls-container">
               <div className={ `vis-container__date-controls ${sizeBasedOnWindow < breakpoint ? 'vis-container__date-controls--mobile ' : ''}` }>
